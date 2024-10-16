@@ -15,7 +15,7 @@ Todos los registros personales se pueden descargar desde la zona de usuarios en 
 Aquí fue donde se me dispararon algunas preguntas 🤔
 
 - ¿Cuántos trayectos hice desde que soy usuario? ➡️ **+1900**  🛣️
-- ¿Cuántas horas de mi vida pasé arriba de una bicicleta en estos últimos 4 años? ➡️ **+392hs** 🤯
+- ¿Cuántas horas de mi vida pasé arriba de una bicicleta en estos últimos 4 años? ➡️ **+400hs** 🤯
 - ¿Cuántas bicicletas únicas utilicé? ➡️ **+1500** 🚲
 
 Sin dudas el resultado me dejó atónito, y ahora cada vez que me subo a una bici, no solo estoy contribuyendo a mi bienestar personal, sino que también estoy alimentando a mi primer dashboard con el inicio a fin de un proceso **ETL** 🥹
