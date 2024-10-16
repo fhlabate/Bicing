@@ -23,9 +23,8 @@ Sin dudas el resultado me dejó atónito, y ahora cada vez que me subo a una bic
 ¿Te gustaría saber un poco más cómo fue el paso a paso?
 ¿Qué métrica te parecería interesante analizar?
 
-## Dashboard interactivo 👇
-[![image](https://github.com/user-attachments/assets/28f03d7e-b46d-4a49-9ddd-845643583dd3)
-](https://app.powerbi.com/view?r=eyJrIjoiMmQ4ZTNhYWUtODBjMi00OWJiLTg2NWYtY2E4Zjk4Y2I4Zjg0IiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)
+## Dashboard interactivo 👇 (Click para abrir) 🖱️
+[![image](https://github.com/user-attachments/assets/28f03d7e-b46d-4a49-9ddd-845643583dd3)(https://app.powerbi.com/view?r=eyJrIjoiMmQ4ZTNhYWUtODBjMi00OWJiLTg2NWYtY2E4Zjk4Y2I4Zjg0IiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)
 
 
-Los leo en [Linkedin](https://www.linkedin.com/in/fhlabate/)
+Los leo en [Linkedin](https://www.linkedin.com/posts/fhlabate_bicing-opendatabcn-activity-7223685260490731520-khx6?utm_source=share&utm_medium=member_desktop)
