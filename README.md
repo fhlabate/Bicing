@@ -23,4 +23,6 @@ Sin dudas el resultado me dejó atónito, y ahora cada vez que me subo a una bic
 ¿Te gustaría saber un poco más cómo fue el paso a paso?
 ¿Qué métrica te parecería interesante analizar?
 
+(https://app.powerbi.com/view?r=eyJrIjoiMmQ4ZTNhYWUtODBjMi00OWJiLTg2NWYtY2E4Zjk4Y2I4Zjg0IiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)
+
 Los leo en [Linkedin](https://www.linkedin.com/in/fhlabate/)
